@@ -4,10 +4,20 @@
     background-color: rgb(185, 243, 223);
 }
 
+h1 {
+    margin: 20px
+}
+
 h2 {
     font-style: italic;
+    margin-bottom: 5px;
 }
 
 ul {
     list-style-position: inside;
+    margin: 20px;
+}
+
+li {
+    padding: 2px;
 }
